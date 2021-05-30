@@ -34,5 +34,9 @@ Para ello utilizamos los siguientes estereotipos:
   ![imagen](https://user-images.githubusercontent.com/55484111/120103671-0c6e5080-c151-11eb-86ab-dd93369e6fe4.png)
 
   
+## Modelo de procesos.
+- Creamos un diagrama de clases con el fin de describir las reaciones entre la figerentes clases de proceso, 
   
-  
+## Modelo de flujo de procesos
+ - Se modela como un diagrama de actividades que describe el comportamiente de una clase de proceso. Encontramos 2 estereotipos principales:
+  - User accion (monigote con >>) y system accion, (cuadrao>>) describe las acciones ejecutadas por el sistema. 
